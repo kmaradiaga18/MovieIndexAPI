@@ -1,0 +1,5 @@
+spring:
+ datasource:
+   username: movies
+   password: movies
+   url: jdbc:mysql://localhost:3306/movies

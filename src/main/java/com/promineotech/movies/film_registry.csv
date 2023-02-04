@@ -1,0 +1,472 @@
+Position,Title,Title Type,Runtime,Year,Genres,Directors
+1,Fantasia,movie,124,1940,"Animation, Family, Fantasy, Music, Musical","Samuel Armstrong, Ben Sharpsteen, Hamilton Luske, Paul Satterfield, James Algar, Jim Handley, Ford Beebe Jr., David Hand, Wilfred Jackson, T. Hee, Norman Ferguson, Bill Roberts"
+2,Bambi,movie,69,1942,"Animation, Adventure, Drama, Family","Samuel Armstrong, Paul Satterfield, Graham Heid, James Algar, Clyde Geronimi, David Hand, Arthur Davis, Bill Roberts, Norman Wright"
+3,Beauty and the Beast,movie,84,1991,"Animation, Family, Fantasy, Musical, Romance","Kirk Wise, Gary Trousdale"
+4,Pinocchio,movie,88,1940,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Ben Sharpsteen, Jack Kinney, Hamilton Luske, Wilfred Jackson, T. Hee, Norman Ferguson, Bill Roberts"
+5,The Lion King,movie,88,1994,"Animation, Adventure, Drama, Family, Musical","Rob Minkoff, Roger Allers"
+6,Snow White and the Seven Dwarfs,movie,83,1937,"Animation, Adventure, Family, Fantasy, Musical, Romance","William Cottrell, Ben Sharpsteen, Perce Pearce, David Hand, Wilfred Jackson, Larry Morey"
+7,Toy Story,movie,81,1995,"Animation, Adventure, Comedy, Family, Fantasy",John Lasseter
+8,12 Angry Men,movie,96,1957,"Crime, Drama",Sidney Lumet
+9,"20,000 Leagues Under the Sea",movie,127,1954,"Adventure, Drama, Family, Fantasy, Sci-Fi",Richard Fleischer
+10,2001: A Space Odyssey,movie,149,1968,"Adventure, Sci-Fi",Stanley Kubrick
+11,3:10 to Yuma,movie,92,1957,"Drama, Thriller, Western",Delmer Daves
+12,42nd Street,movie,89,1933,"Comedy, Drama, Music, Musical, Romance",Lloyd Bacon
+13,The 7th Voyage of Sinbad,movie,88,1958,"Action, Adventure, Family, Fantasy",Nathan Juran
+14,Bud Abbott and Lou Costello Meet Frankenstein,movie,83,1948,"Comedy, Family, Fantasy, Horror, Sci-Fi","Charles Barton, Walter Lantz"
+15,Adam's Rib,movie,101,1949,"Comedy, Romance",George Cukor
+16,The Adventures of Robin Hood,movie,102,1938,"Action, Adventure, Romance","Michael Curtiz, William Keighley"
+17,The African Queen,movie,105,1951,"Adventure, Drama, Romance, War",John Huston
+18,Airplane!,movie,88,1980,Comedy,"Jim Abrahams, Jerry Zucker, David Zucker"
+19,Alien,movie,117,1979,"Horror, Sci-Fi",Ridley Scott
+20,All About Eve,movie,138,1950,Drama,Joseph L. Mankiewicz
+21,All Quiet on the Western Front,movie,152,1930,"Drama, War",Lewis Milestone
+22,All That Heaven Allows,movie,89,1955,"Drama, Music, Romance",Douglas Sirk
+23,All That Jazz,movie,123,1979,"Drama, Music, Musical",Bob Fosse
+24,All the King's Men,movie,110,1949,"Drama, Film-Noir",Robert Rossen
+25,All the President's Men,movie,138,1976,"Drama, History, Thriller",Alan J. Pakula
+26,America America,movie,174,1963,"Adventure, Drama",Elia Kazan
+27,American Graffiti,movie,110,1973,"Comedy, Drama",George Lucas
+28,An American in Paris,movie,114,1951,"Drama, Musical, Romance",Vincente Minnelli
+29,Anatomy of a Murder,movie,161,1959,"Drama, Mystery",Otto Preminger
+30,Annie Hall,movie,93,1977,"Comedy, Romance",Woody Allen
+31,The Apartment,movie,125,1960,"Comedy, Drama, Romance",Billy Wilder
+32,Apocalypse Now,movie,147,1979,"Drama, Mystery, War",Francis Ford Coppola
+33,Applause,movie,80,1929,"Drama, Musical, Romance",Rouben Mamoulian
+34,The Asphalt Jungle,movie,112,1950,"Crime, Drama, Film-Noir, Thriller",John Huston
+35,Atlantic City,movie,104,1980,"Crime, Drama, Romance",Louis Malle
+36,The Awful Truth,movie,90,1937,"Comedy, Romance",Leo McCarey
+37,Baby Face,movie,71,1933,"Drama, Romance",Alfred E. Green
+38,Back to the Future,movie,116,1985,"Adventure, Comedy, Sci-Fi",Robert Zemeckis
+39,The Bad and the Beautiful,movie,118,1952,"Drama, Romance",Vincente Minnelli
+40,Badlands,movie,94,1973,"Action, Crime, Drama",Terrence Malick
+41,Ball of Fire,movie,111,1941,"Comedy, Romance",Howard Hawks
+42,The Band Wagon,movie,112,1953,"Comedy, Musical, Romance",Vincente Minnelli
+43,The Bank Dick,movie,72,1940,Comedy,Edward F. Cline
+44,The Bargain,movie,70,1914,Western,Reginald Barker
+45,Being There,movie,130,1979,"Comedy, Drama",Hal Ashby
+46,Ben-Hur A Tale of the Christ,movie,143,1925,"Adventure, Drama, Romance","Charles Brabin, Christy Cabanne, Rex Ingram, Fred Niblo, J.J. Cohn"
+47,Ben-Hur,movie,212,1959,"Adventure, Drama",William Wyler
+48,Lime Kiln Club Field Day,movie,65,1913,,"T. Hayes Hunter, Edwin Middleton"
+49,The Best Years of Our Lives,movie,170,1946,"Drama, Romance, War",William Wyler
+50,The Big Heat,movie,89,1953,"Crime, Film-Noir, Thriller",Fritz Lang
+51,The Big Lebowski,movie,117,1998,"Comedy, Crime","Ethan Coen, Joel Coen"
+52,The Big Parade,movie,151,1925,"Drama, Romance, War","King Vidor, George W. Hill"
+53,The Big Sleep,movie,114,1946,"Crime, Film-Noir, Mystery, Thriller",Howard Hawks
+54,The Big Trail,movie,125,1930,"Adventure, Romance, Western","Raoul Walsh, Louis R. Loeffler"
+55,The Birds,movie,119,1963,"Drama, Horror, Mystery, Romance",Alfred Hitchcock
+56,The Birth of a Nation,movie,195,1915,"Drama, War",D.W. Griffith
+57,The Black Pirate,movie,88,1926,"Adventure, Action",Albert Parker
+58,The Black Stallion,movie,118,1979,"Adventure, Family, Sport",Carroll Ballard
+59,Blackboard Jungle,movie,101,1955,"Crime, Drama",Richard Brooks
+60,Blade Runner,movie,117,1982,"Action, Drama, Sci-Fi, Thriller",Ridley Scott
+61,Blazing Saddles,movie,93,1974,"Comedy, Western",Mel Brooks
+62,Bless Their Little Hearts,movie,80,1983,Drama,Billy Woodberry
+63,The Blood of Jesus,movie,57,1941,"Drama, Fantasy",Spencer Williams
+64,The Blue Bird,movie,75,1918,"Family, Fantasy",Maurice Tourneur
+65,Bonnie and Clyde,movie,111,1967,"Action, Biography, Crime, Drama",Arthur Penn
+66,Born Yesterday,movie,103,1950,"Comedy, Drama, Romance",George Cukor
+67,Boyz n the Hood,movie,112,1991,"Crime, Drama",John Singleton
+68,Brandy in the Wilderness,movie,87,1969,Drama,Stanton Kaye
+69,Breakfast at Tiffany's,movie,115,1961,"Comedy, Drama, Romance",Blake Edwards
+70,The Breakfast Club,movie,97,1985,"Comedy, Drama",John Hughes
+71,Bride of Frankenstein,movie,75,1935,"Drama, Horror, Sci-Fi",James Whale
+72,The Bridge on the River Kwai,movie,161,1957,"Adventure, Drama, War",David Lean
+73,Bringing Up Baby,movie,102,1938,Comedy,Howard Hawks
+74,Broken Blossoms or The Yellow Man and the Girl,movie,90,1919,"Drama, Romance",D.W. Griffith
+75,Bullitt,movie,114,1968,"Action, Crime, Thriller",Peter Yates
+76,Butch Cassidy and the Sundance Kid,movie,110,1969,"Biography, Crime, Drama, Western",George Roy Hill
+77,Cabaret,movie,124,1972,"Drama, Music, Musical, Romance",Bob Fosse
+78,The Cameraman,movie,76,1928,"Comedy, Drama, Family, Romance","Edward Sedgwick, Buster Keaton"
+79,Carmen Jones,movie,105,1954,"Drama, Musical, Romance",Otto Preminger
+80,Casablanca,movie,102,1942,"Drama, Romance, War",Michael Curtiz
+81,Cat People,movie,73,1942,"Fantasy, Horror, Thriller",Jacques Tourneur
+82,Chan Is Missing,movie,76,1982,"Drama, Mystery",Wayne Wang
+83,The Cheat,movie,59,1915,"Drama, Romance",Cecil B. DeMille
+84,The Chechahcos,movie,87,1923,"Adventure, Drama, Western",Lewis H. Moomaw
+85,Chinatown,movie,130,1974,"Drama, Mystery, Thriller",Roman Polanski
+86,A Christmas Story,movie,93,1983,"Comedy, Family",Bob Clark
+87,Citizen Kane,movie,119,1941,"Drama, Mystery",Orson Welles
+88,City Lights,movie,87,1931,"Comedy, Drama, Romance",Charles Chaplin
+89,Civilization,movie,85,1915,"Drama, War","Thomas H. Ince, Jay Hunt, J. Parker Read Jr., Raymond B. West, Reginald Barker, Walter Edwards, David Hartford"
+90,Clash of the Wolves,movie,74,1925,"Adventure, Family, Romance, Western",Noel M. Smith
+91,Close Encounters of the Third Kind,movie,138,1977,"Drama, Sci-Fi",Steven Spielberg
+92,The Conversation,movie,113,1974,"Drama, Mystery, Thriller",Francis Ford Coppola
+93,Cool Hand Luke,movie,127,1967,"Crime, Drama",Stuart Rosenberg
+94,The Cool World,movie,105,1963,"Crime, Drama",Shirley Clarke
+95,The Court Jester,movie,101,1955,"Adventure, Comedy, Family, Musical","Melvin Frank, Norman Panama"
+96,The Crowd,movie,98,1928,"Drama, Music, Romance",King Vidor
+97,"Dance, Girl, Dance",movie,90,1940,"Comedy, Drama, Music","Dorothy Arzner, Roy Del Ruth"
+98,Dances with Wolves,movie,181,1990,"Adventure, Drama, Western",Kevin Costner
+99,The Daughter of Dawn,movie,80,1920,"Romance, Western",Norbert A. Myles
+100,Daughter of Shanghai,movie,62,1937,"Crime, Drama, Romance",Robert Florey
+101,Daughters of the Dust,movie,113,1991,"Drama, History, Romance",Julie Dash
+102,David Holzman's Diary,movie,74,1967,"Comedy, Drama",Jim McBride
+103,The Day the Earth Stood Still,movie,92,1951,"Drama, Sci-Fi",Robert Wise
+104,Days of Heaven,movie,94,1978,"Drama, Romance",Terrence Malick
+105,The Deer Hunter,movie,183,1978,"Drama, War",Michael Cimino
+106,Deliverance,movie,109,1972,"Adventure, Drama, Thriller",John Boorman
+107,Destry Rides Again,movie,95,1939,"Comedy, Western",George Marshall
+108,Detour,movie,66,1945,"Crime, Drama, Film-Noir",Edgar G. Ulmer
+109,Dirty Harry,movie,102,1971,"Action, Crime, Thriller","Don Siegel, Clint Eastwood"
+110,D.O.A.,movie,83,1949,"Crime, Drama, Film-Noir, Mystery",Rudolph Maté
+111,Do the Right Thing,movie,120,1989,"Comedy, Drama",Spike Lee
+112,The Docks of New York,movie,76,1928,"Crime, Drama, Film-Noir, Romance",Josef von Sternberg
+113,Dodsworth,movie,101,1936,"Drama, Romance",William Wyler
+114,Dog Day Afternoon,movie,125,1975,"Biography, Crime, Drama, Thriller",Sidney Lumet
+115,Double Indemnity,movie,107,1944,"Crime, Drama, Film-Noir, Mystery, Thriller",Billy Wilder
+116,Down Argentine Way,movie,89,1940,"Comedy, Drama, Musical, Romance, Sport",Irving Cummings
+117,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,movie,95,1964,"Comedy, War",Stanley Kubrick
+118,Dracula,movie,75,1931,"Drama, Fantasy, Horror","Karl Freund, Tod Browning"
+119,Drácula,movie,104,1931,"Drama, Fantasy, Horror",George Melford
+120,The Dragon Painter,movie,53,1919,"Drama, Romance",William Worthington
+121,Duck Soup,movie,69,1933,"Comedy, Musical",Leo McCarey
+122,East of Eden,movie,118,1955,Drama,Elia Kazan
+123,Easy Rider,movie,95,1969,"Adventure, Drama",Dennis Hopper
+124,El mariachi,movie,81,1992,"Action, Crime, Thriller",Robert Rodriguez
+125,El Norte,movie,141,1983,"Adventure, Drama",Gregory Nava
+126,Ella Cinders,movie,75,1926,"Comedy, Music, Romance",Alfred E. Green
+127,The Emperor Jones,movie,72,1933,"Drama, Music","William C. de Mille, Dudley Murphy"
+128,The Empire Strikes Back,movie,124,1980,"Action, Adventure, Fantasy, Sci-Fi",Irvin Kershner
+129,Enter the Dragon,movie,102,1973,"Action, Crime, Drama, Thriller",Robert Clouse
+130,Eraserhead,movie,89,1977,"Fantasy, Horror",David Lynch
+131,E.T. the Extra-Terrestrial,movie,115,1982,"Adventure, Family, Sci-Fi",Steven Spielberg
+132,The Exiles,movie,72,1961,Drama,Kent Mackenzie
+133,The Exorcist,movie,122,1973,Horror,William Friedkin
+134,A Face in the Crowd,movie,126,1957,"Drama, Music",Elia Kazan
+135,Faces,movie,130,1968,Drama,John Cassavetes
+136,Fargo,movie,98,1996,"Crime, Thriller","Ethan Coen, Joel Coen"
+137,Fast Times at Ridgemont High,movie,90,1982,"Comedy, Drama",Amy Heckerling
+138,Ferris Bueller's Day Off,movie,103,1986,Comedy,John Hughes
+139,Five Easy Pieces,movie,98,1970,Drama,Bob Rafelson
+140,Flesh and the Devil,movie,112,1926,"Drama, Music",Clarence Brown
+141,Flower Drum Song,movie,133,1961,"Comedy, Musical, Romance",Henry Koster
+142,A Fool There Was,movie,67,1915,Drama,Frank Powell
+143,Foolish Wives,movie,117,1922,"Drama, Thriller",Erich von Stroheim
+144,Footlight Parade,movie,104,1933,"Comedy, Musical, Romance",Lloyd Bacon
+145,Forbidden Planet,movie,98,1956,"Adventure, Sci-Fi",Fred M. Wilcox
+146,Force of Evil,movie,79,1948,"Crime, Drama, Film-Noir",Abraham Polonsky
+147,Forrest Gump,movie,142,1994,"Drama, Romance",Robert Zemeckis
+148,The Four Horsemen of the Apocalypse,movie,150,1921,"Drama, Romance, War",Rex Ingram
+149,Frankenstein,movie,70,1931,"Drama, Horror, Sci-Fi, Thriller",James Whale
+150,Freaks,movie,64,1932,"Drama, Horror",Tod Browning
+151,The French Connection,movie,104,1971,"Action, Crime, Drama, Thriller",William Friedkin
+152,The Freshman,movie,77,1925,"Comedy, Family, Music, Romance, Sport","Fred C. Newmeyer, Sam Taylor"
+153,From Here to Eternity,movie,118,1953,"Drama, Romance, War",Fred Zinnemann
+154,From the Manger to the Cross,movie,60,1912,"Biography, Drama",Sidney Olcott
+155,The Front Page,movie,101,1931,"Comedy, Crime, Drama, Mystery, Romance",Lewis Milestone
+156,Funny Girl,movie,151,1968,"Biography, Comedy, Drama, Musical, Romance",William Wyler
+157,Fury,movie,92,1936,"Crime, Drama, Film-Noir, Thriller",Fritz Lang
+158,The Gang's All Here,movie,103,1943,"Music, Musical, Romance",Busby Berkeley
+159,The General,movie,67,1926,"Action, Adventure, Comedy, Drama, War","Buster Keaton, Clyde Bruckman"
+160,Ghostbusters,movie,105,1984,"Action, Comedy, Fantasy, Sci-Fi",Ivan Reitman
+161,Giant,movie,201,1956,"Drama, Western",George Stevens
+162,Gigi,movie,115,1958,"Comedy, Musical, Romance","Charles Walters, Vincente Minnelli"
+163,Gilda,movie,110,1946,"Drama, Film-Noir, Romance, Thriller",Charles Vidor
+164,The Godfather,movie,175,1972,"Crime, Drama",Francis Ford Coppola
+165,The Godfather Part II,movie,202,1974,"Crime, Drama",Francis Ford Coppola
+166,Going My Way,movie,126,1944,"Comedy, Drama, Music",Leo McCarey
+167,Gold Diggers of 1933,movie,97,1933,"Comedy, Drama, Musical",Mervyn LeRoy
+168,The Gold Rush,movie,95,1925,"Adventure, Comedy, Drama, Romance, Western",Charles Chaplin
+169,Gone with the Wind,movie,238,1939,"Drama, Romance, War","Sam Wood, George Cukor, Victor Fleming"
+170,GoodFellas,movie,145,1990,"Biography, Crime, Drama",Martin Scorsese
+171,The Graduate,movie,106,1967,"Comedy, Drama, Romance",Mike Nichols
+172,Grand Hotel,movie,112,1932,"Drama, Romance",Edmund Goulding
+173,The Grapes of Wrath,movie,129,1940,Drama,John Ford
+174,The Great Dictator,movie,125,1940,"Comedy, Drama, War",Charles Chaplin
+175,Greed,movie,140,1924,"Drama, Thriller, Western",Erich von Stroheim
+176,Groundhog Day,movie,101,1993,"Comedy, Drama, Fantasy, Romance",Harold Ramis
+177,Gun Crazy,movie,87,1950,"Crime, Drama, Film-Noir, Romance, Thriller",Joseph H. Lewis
+178,Gunga Din,movie,117,1939,"Adventure, Comedy, War",George Stevens
+179,Hail the Conquering Hero,movie,101,1944,"Comedy, War",Preston Sturges
+180,Hallelujah,movie,109,1929,"Drama, Musical",King Vidor
+181,Halloween,movie,91,1978,"Horror, Thriller",John Carpenter
+182,Hands Up!,movie,60,1926,"Action, Comedy, War",Clarence G. Badger
+183,Harold and Maude,movie,91,1971,"Comedy, Drama, Romance",Hal Ashby
+184,The Heiress,movie,115,1949,"Drama, Romance",William Wyler
+185,Hell's Hinges,movie,64,1916,"Romance, Western","Charles Swickard, Clifford Smith, William S. Hart"
+186,Hester Street,movie,89,1975,"Drama, Romance",Joan Micklin Silver
+187,High Noon,movie,85,1952,"Drama, Thriller, Western",Fred Zinnemann
+188,His Girl Friday,movie,92,1940,"Comedy, Drama, Romance",Howard Hawks
+189,The Hitch-Hiker,movie,71,1953,"Crime, Drama, Film-Noir, Thriller",Ida Lupino
+190,Hoosiers,movie,114,1986,"Drama, Sport",David Anspaugh
+191,The Hospital,movie,103,1971,"Comedy, Drama, Mystery",Arthur Hiller
+192,House of Usher,movie,79,1960,"Drama, Horror",Roger Corman
+193,House of Wax,movie,88,1953,Horror,André De Toth
+194,How Green Was My Valley,movie,118,1941,"Drama, Family",John Ford
+195,How the West Was Won,movie,164,1962,Western,"George Marshall, John Ford, Henry Hathaway, Richard Thorpe"
+196,Humoresque,movie,60,1920,"Drama, War",Frank Borzage
+197,The Hustler,movie,134,1961,"Drama, Sport",Robert Rossen
+198,I Am a Fugitive from a Chain Gang,movie,92,1932,"Crime, Drama, Film-Noir",Mervyn LeRoy
+199,Imitation of Life,movie,111,1934,"Comedy, Drama, Romance",John M. Stahl
+200,Imitation of Life,movie,125,1959,Drama,Douglas Sirk
+201,In a Lonely Place,movie,94,1950,"Drama, Film-Noir, Mystery, Romance, Thriller",Nicholas Ray
+202,In Cold Blood,movie,134,1967,"Biography, Crime, Drama, History",Richard Brooks
+203,In the Heat of the Night,movie,110,1967,"Drama, Mystery, Thriller",Norman Jewison
+204,In the Land of the Head Hunters,movie,65,1914,"Drama, History",Edward S. Curtis
+205,The Incredible Shrinking Man,movie,81,1957,"Horror, Sci-Fi",Jack Arnold
+206,Intolerance: Love's Struggle Throughout the Ages,movie,163,1916,"Drama, History",D.W. Griffith
+207,Invasion of the Body Snatchers,movie,80,1956,"Drama, Horror, Sci-Fi",Don Siegel
+208,The Invisible Man,movie,71,1933,"Horror, Sci-Fi",James Whale
+209,The Iron Horse,movie,150,1924,"History, Romance, Western",John Ford
+210,It,movie,72,1927,"Comedy, Romance","Clarence G. Badger, Josef von Sternberg"
+211,It Happened One Night,movie,105,1934,"Comedy, Romance",Frank Capra
+212,It's a Gift,movie,68,1934,Comedy,Norman Z. McLeod
+213,It's a Wonderful Life,movie,130,1946,"Drama, Family, Fantasy, Romance",Frank Capra
+214,The Italian,movie,72,1915,Drama,Reginald Barker
+215,Jailhouse Rock,movie,96,1957,"Drama, Music, Musical, Romance",Richard Thorpe
+216,Jaws,movie,124,1975,"Adventure, Thriller",Steven Spielberg
+217,The Jazz Singer,movie,88,1927,"Drama, Music, Musical, Romance",Alan Crosland
+218,Jezebel,movie,104,1938,"Drama, Romance",William Wyler
+219,Johnny Guitar,movie,110,1954,"Drama, Western",Nicholas Ray
+220,Judgment at Nuremberg,movie,179,1961,"Drama, War",Stanley Kramer
+221,The Kid,movie,68,1921,"Comedy, Drama, Family",Charles Chaplin
+222,The Kidnappers Foil,short,23,1930,"Short, Crime, Family, Music",Melton Barker
+223,Killer of Sheep,movie,80,1978,Drama,Charles Burnett
+224,The Killers,movie,103,1946,"Crime, Drama, Film-Noir, Mystery",Robert Siodmak
+225,King Kong,movie,100,1933,"Adventure, Horror, Sci-Fi","Ernest B. Schoedsack, Merian C. Cooper"
+226,King of Jazz,movie,99,1930,"Animation, Comedy, Musical","John Murray Anderson, Walter Lantz"
+227,Kiss Me Deadly,movie,106,1955,"Crime, Film-Noir, Mystery, Sci-Fi, Thriller",Robert Aldrich
+228,Knute Rockne All American,movie,98,1940,"Biography, Drama, Family, Sport","Lloyd Bacon, William K. Howard"
+229,Koyaanisqatsi,movie,86,1982,"Documentary, Music",Godfrey Reggio
+230,L.A. Confidential,movie,138,1997,"Crime, Drama, Mystery, Thriller",Curtis Hanson
+231,The Lady Eve,movie,94,1941,"Comedy, Romance",Preston Sturges
+232,Lady Windermere's Fan,movie,120,1925,Comedy,Ernst Lubitsch
+233,Lassie Come Home,movie,89,1943,"Adventure, Drama, Family",Fred M. Wilcox
+234,The Last Command,movie,88,1928,"Drama, History, Romance, War",Josef von Sternberg
+235,The Last of the Mohicans,movie,73,1920,"Action, Adventure, Drama, Romance, War","Clarence Brown, Maurice Tourneur"
+236,The Last Picture Show,movie,118,1971,"Drama, Romance",Peter Bogdanovich
+237,Laura,movie,88,1944,"Drama, Film-Noir, Mystery",Otto Preminger
+238,Lawrence of Arabia,movie,218,1962,"Adventure, Biography, Drama, War",David Lean
+239,A League of Their Own,movie,128,1992,"Comedy, Drama, Sport",Penny Marshall
+240,The Learning Tree,movie,107,1969,Drama,Gordon Parks
+241,Letter from an Unknown Woman,movie,87,1948,"Drama, Romance",Max Ophüls
+242,The Life of Emile Zola,movie,116,1937,"Biography, Drama",William Dieterle
+243,Little Big Man,movie,139,1970,"Adventure, Comedy, Drama, Western",Arthur Penn
+244,Little Caesar,movie,79,1931,"Action, Crime, Drama, Romance",Mervyn LeRoy
+245,Little Fugitive,movie,75,1953,"Drama, Family","Morris Engel, Ray Ashley, Ruth Orkin"
+246,Little Miss Marker,movie,80,1934,"Adventure, Comedy, Drama, Family, Music",Alexander Hall
+247,Lonesome,movie,69,1928,"Comedy, Drama, Romance",Pál Fejös
+248,Lost Horizon,movie,132,1937,"Adventure, Drama, Fantasy, Mystery",Frank Capra
+249,The Lost Weekend,movie,101,1945,"Drama, Film-Noir",Billy Wilder
+250,The Lost World,movie,110,1925,"Adventure, Fantasy, Sci-Fi, Thriller",Harry O. Hoyt
+251,Louisiana Story,movie,78,1948,"Adventure, Drama",Robert J. Flaherty
+252,Love Finds Andy Hardy,movie,91,1938,"Comedy, Romance",George B. Seitz
+253,Love Me Tonight,movie,104,1932,"Comedy, Musical, Romance",Rouben Mamoulian
+254,The Magnificent Ambersons,movie,88,1942,"Drama, Romance","Robert Wise, Fred Fleck, Orson Welles"
+255,The Magnificent Seven,movie,128,1960,"Action, Adventure, Western",John Sturges
+256,Make Way for Tomorrow,movie,91,1937,"Drama, Romance",Leo McCarey
+257,Malcolm X,movie,202,1992,"Biography, Drama, History",Spike Lee
+258,The Maltese Falcon,movie,100,1941,"Crime, Film-Noir, Mystery, Romance",John Huston
+259,The Man Who Shot Liberty Valance,movie,123,1962,"Drama, Western",John Ford
+260,The Manchurian Candidate,movie,126,1962,"Drama, Thriller",John Frankenheimer
+261,Manhattan,movie,96,1979,"Comedy, Drama, Romance",Woody Allen
+262,The Mark of Zorro,movie,79,1920,"Adventure, Romance, Western",Fred Niblo
+263,The Mark of Zorro,movie,94,1940,"Action, Adventure, Family, Romance, Western",Rouben Mamoulian
+264,Marty,movie,90,1955,"Drama, Romance",Delbert Mann
+265,Mary Poppins,movie,139,1964,"Comedy, Family, Fantasy, Musical",Robert Stevenson
+266,M*A*S*H,movie,116,1970,"Comedy, Drama, War",Robert Altman
+267,The Matrix,movie,136,1999,"Action, Sci-Fi","Lilly Wachowski, Lana Wachowski"
+268,McCabe & Mrs. Miller,movie,120,1971,"Drama, Western",Robert Altman
+269,Mean Streets,movie,112,1973,"Crime, Drama, Thriller",Martin Scorsese
+270,Medium Cool,movie,111,1969,Drama,Haskell Wexler
+271,Meet Me in St. Louis,movie,113,1944,"Comedy, Drama, Family, Musical, Romance",Vincente Minnelli
+272,Melody Ranch,movie,84,1940,Western,Joseph Santley
+273,Midnight,movie,94,1939,"Comedy, Romance",Mitchell Leisen
+274,Midnight Cowboy,movie,113,1969,Drama,John Schlesinger
+275,Mildred Pierce,movie,111,1945,"Crime, Drama, Film-Noir, Mystery, Romance",Michael Curtiz
+276,The Miracle of Morgan's Creek,movie,98,1944,"Comedy, Romance, War",Preston Sturges
+277,Miracle on 34th Street,movie,96,1947,"Comedy, Drama, Family",George Seaton
+278,Miss Lulu Bett,movie,71,1921,"Comedy, Drama",William C. de Mille
+279,Modern Times,movie,87,1936,"Comedy, Drama, Romance",Charles Chaplin
+280,Mom and Dad,movie,97,1945,Drama,William Beaudine
+281,Morocco,movie,92,1930,"Drama, Romance",Josef von Sternberg
+282,Mr. Smith Goes to Washington,movie,129,1939,"Comedy, Drama",Frank Capra
+283,Mrs. Miniver,movie,134,1942,"Drama, Romance, War",William Wyler
+284,The Muppet Movie,movie,95,1979,"Adventure, Comedy, Family, Musical",James Frawley
+285,The Music Man,movie,151,1962,"Comedy, Family, Musical, Romance",Morton DaCosta
+286,My Darling Clementine,movie,97,1946,"Drama, Romance, Western",John Ford
+287,My Man Godfrey,movie,94,1936,"Comedy, Drama, Romance",Gregory La Cava
+288,The Naked City,movie,96,1948,"Crime, Drama, Film-Noir, Mystery, Thriller",Jules Dassin
+289,The Naked Spur,movie,91,1953,"Drama, Thriller, Western",Anthony Mann
+290,Nashville,movie,160,1975,"Comedy, Drama, Music",Robert Altman
+291,National Lampoon's Animal House,movie,109,1978,Comedy,John Landis
+292,National Velvet,movie,123,1944,"Drama, Family, Sport",Clarence Brown
+293,Naughty Marietta,movie,105,1935,"Drama, Musical, Romance","W.S. Van Dyke, Robert Z. Leonard"
+294,Network,movie,121,1976,Drama,Sidney Lumet
+295,A Night at the Opera,movie,96,1935,"Comedy, Music, Musical","Sam Wood, Edmund Goulding"
+296,The Night of the Hunter,movie,92,1955,"Crime, Drama, Film-Noir, Thriller",Charles Laughton
+297,Night of the Living Dead,movie,96,1968,"Horror, Thriller",George A. Romero
+298,Ninotchka,movie,110,1939,"Comedy, Romance",Ernst Lubitsch
+299,Norma Rae,movie,114,1979,Drama,Martin Ritt
+300,North by Northwest,movie,136,1959,"Action, Adventure, Mystery, Thriller",Alfred Hitchcock
+301,Nothing But a Man,movie,95,1964,"Drama, Romance",Michael Roemer
+302,Notorious,movie,102,1946,"Drama, Film-Noir, Romance, Thriller",Alfred Hitchcock
+303,"Now, Voyager",movie,117,1942,"Drama, Romance",Irving Rapper
+304,Oklahoma!,movie,145,1955,"Comedy, Drama, Musical, Romance, Western",Fred Zinnemann
+305,The Nutty Professor,movie,107,1963,"Comedy, Romance, Sci-Fi",Jerry Lewis
+306,On the Waterfront,movie,108,1954,"Crime, Drama, Thriller",Elia Kazan
+307,C'era una volta il West,movie,165,1968,Western,Sergio Leone
+308,One Flew Over the Cuckoo's Nest,movie,133,1975,Drama,Milos Forman
+309,Our Daily Bread,movie,80,1934,"Drama, Romance",King Vidor
+310,Out of the Past,movie,97,1947,"Crime, Drama, Film-Noir, Romance, Thriller",Jacques Tourneur
+311,The Outlaw Josey Wales,movie,135,1976,Western,Clint Eastwood
+312,The Ox-Bow Incident,movie,75,1942,"Drama, Western",William A. Wellman
+313,Paths of Glory,movie,88,1957,"Drama, War",Stanley Kubrick
+314,Patton,movie,172,1970,"Biography, Drama, War",Franklin J. Schaffner
+315,The Pawnbroker,movie,116,1964,Drama,Sidney Lumet
+316,La perla,movie,85,1947,"Adventure, Drama, Romance",Emilio Fernández
+317,Peter Pan,movie,105,1924,"Adventure, Family, Fantasy",Herbert Brenon
+318,The Phantom of the Opera,movie,93,1925,Horror,"Rupert Julian, Ernst Laemmle, Lon Chaney, Edward Sedgwick"
+319,The Philadelphia Story,movie,112,1940,"Comedy, Romance",George Cukor
+320,Pillow Talk,movie,102,1959,"Comedy, Romance",Michael Gordon
+321,The Pink Panther,movie,115,1963,"Comedy, Crime, Romance",Blake Edwards
+322,A Place in the Sun,movie,122,1951,"Drama, Romance",George Stevens
+323,Planet of the Apes,movie,112,1968,"Adventure, Sci-Fi",Franklin J. Schaffner
+324,"Please, Don't Bury Me Alive!",movie,81,1976,"Crime, Drama",Efrain Gutierrez
+325,Point Blank,movie,92,1967,"Crime, Drama, Thriller",John Boorman
+326,The Poor Little Rich Girl,movie,65,1917,"Comedy, Drama, Family, Fantasy, Romance",Maurice Tourneur
+327,Porgy and Bess,movie,138,1959,"Drama, Musical, Romance","Otto Preminger, Rouben Mamoulian"
+328,The Power and the Glory,movie,76,1933,Drama,William K. Howard
+329,The Power of the Press,movie,62,1928,Drama,Frank Capra
+330,The Princess Bride,movie,98,1987,"Adventure, Family, Fantasy, Romance",Rob Reiner
+331,The Prisoner of Zenda,movie,101,1937,"Adventure, Drama, Music, Romance","W.S. Van Dyke, John Cromwell"
+332,The Producers,movie,88,1967,"Comedy, Music",Mel Brooks
+333,Psycho,movie,109,1960,"Horror, Mystery, Thriller",Alfred Hitchcock
+334,The Public Enemy,movie,83,1931,"Crime, Drama",William A. Wellman
+335,Pulp Fiction,movie,154,1994,"Crime, Drama",Quentin Tarantino
+336,Putney Swope,movie,84,1969,Comedy,Robert Downey Sr.
+337,The Quiet Man,movie,129,1952,"Comedy, Drama, Romance",John Ford
+338,Raging Bull,movie,129,1980,"Biography, Drama, Sport",Martin Scorsese
+339,Raiders of the Lost Ark,movie,115,1981,"Action, Adventure",Steven Spielberg
+340,A Raisin in the Sun,movie,128,1961,Drama,Daniel Petrie
+341,Rear Window,movie,112,1954,"Mystery, Thriller",Alfred Hitchcock
+342,Rebel Without a Cause,movie,111,1955,Drama,Nicholas Ray
+343,Red Dust,movie,83,1932,"Comedy, Drama, Romance",Victor Fleming
+344,Red River,movie,133,1948,"Drama, Western","Arthur Rosson, Howard Hawks"
+345,The Regeneration,movie,72,1915,"Biography, Crime, Drama, Romance",Raoul Walsh
+346,Return of the Secaucus Seven,movie,104,1980,Drama,John Sayles
+347,The Revenge of Pancho Villa,movie,60,1932,"Biography, War","Félix Padilla, Edmundo Padilla"
+348,Ride the High Country,movie,94,1962,"Drama, Western",Sam Peckinpah
+349,The Right Stuff,movie,193,1983,"Adventure, Biography, Drama, History",Philip Kaufman
+350,Rio Bravo,movie,141,1959,Western,Howard Hawks
+351,Road to Morocco,movie,82,1942,"Adventure, Comedy, Family, Music, Romance",David Butler
+352,Rocky,movie,120,1976,"Drama, Sport",John G. Avildsen
+353,The Rocky Horror Picture Show,movie,100,1975,"Comedy, Horror, Musical",Jim Sharman
+354,Roman Holiday,movie,118,1953,"Comedy, Romance",William Wyler
+355,Rosemary's Baby,movie,137,1968,"Drama, Horror",Roman Polanski
+356,Ruggles of Red Gap,movie,90,1935,"Comedy, Music, Mystery, Romance, Western",Leo McCarey
+357,Rushmore,movie,93,1998,"Comedy, Drama, Romance",Wes Anderson
+358,Sabrina,movie,113,1954,"Comedy, Drama, Romance",Billy Wilder
+359,Safety Last!,movie,74,1923,"Action, Comedy, Thriller","Fred C. Newmeyer, Sam Taylor"
+360,Salomé,movie,72,1922,"Biography, Drama, History, Horror","Charles Bryant, Alla Nazimova"
+361,Salt of the Earth,movie,94,1954,"Drama, History",Herbert J. Biberman
+362,Saturday Night Fever,movie,118,1977,"Drama, Music",John Badham
+363,Saving Private Ryan,movie,169,1998,"Drama, War",Steven Spielberg
+364,Scarface,movie,93,1932,"Action, Crime, Drama, Film-Noir, Thriller","Richard Rosson, Howard Hawks"
+365,Schindler's List,movie,195,1993,"Biography, Drama, History",Steven Spielberg
+366,The Searchers,movie,119,1956,"Adventure, Drama, Western",John Ford
+367,Seconds,movie,106,1966,"Sci-Fi, Thriller",John Frankenheimer
+368,Sergeant York,movie,134,1941,"Biography, Drama, History, Romance, War",Howard Hawks
+369,Seven Brides for Seven Brothers,movie,102,1954,"Comedy, Drama, Musical, Romance, Western",Stanley Donen
+370,7th Heaven,movie,110,1927,"Drama, Romance",Frank Borzage
+371,"Sex, Lies, and Videotape",movie,100,1989,Drama,Steven Soderbergh
+372,Shadow of a Doubt,movie,108,1943,"Film-Noir, Thriller",Alfred Hitchcock
+373,Shadows,movie,81,1958,"Drama, Music, Romance",John Cassavetes
+374,Shaft,movie,100,1971,"Action, Crime, Thriller",Gordon Parks
+375,Shane,movie,118,1953,"Drama, Western",George Stevens
+376,The Shawshank Redemption,movie,142,1994,Drama,Frank Darabont
+377,She Done Him Wrong,movie,66,1933,"Comedy, Drama, History, Musical, Romance",Lowell Sherman
+378,Sherlock Jr.,movie,45,1924,"Action, Comedy, Romance",Buster Keaton
+379,Shock Corridor,movie,101,1963,"Drama, Mystery",Samuel Fuller
+380,Shoes,movie,60,1916,Drama,Lois Weber
+381,The Shop Around the Corner,movie,99,1940,"Comedy, Drama, Romance",Ernst Lubitsch
+382,Show Boat,movie,113,1936,"Comedy, Drama, Music, Musical, Romance",James Whale
+383,Show People,movie,83,1928,"Comedy, Romance",King Vidor
+384,The Silence of the Lambs,movie,118,1991,"Crime, Drama, Thriller",Jonathan Demme
+385,Singin' in the Rain,movie,103,1952,"Comedy, Musical, Romance","Gene Kelly, Stanley Donen"
+386,Sky High,movie,58,1922,"Action, Drama, Romance, Western",Lynn Reynolds
+387,Slacker,movie,97,1990,"Comedy, Drama",Richard Linklater
+388,So's Your Old Man,movie,67,1926,"Comedy, Romance",Gregory La Cava
+389,Some Like It Hot,movie,121,1959,"Comedy, Music, Romance",Billy Wilder
+390,The Son of the Sheik,movie,68,1926,"Adventure, Drama, Romance",George Fitzmaurice
+391,Sons of the Desert,movie,68,1933,"Comedy, Family, Music",William A. Seiter
+392,The Sound of Music,movie,172,1965,"Biography, Drama, Family, Musical, Romance",Robert Wise
+393,The Spook Who Sat by the Door,movie,102,1973,"Action, Drama, Crime",Ivan Dixon
+394,Stagecoach,movie,96,1939,"Adventure, Drama, Western",John Ford
+395,Stand and Deliver,movie,103,1988,"Biography, Drama",Ramón Menéndez
+396,A Star Is Born,movie,154,1954,"Drama, Musical, Romance",George Cukor
+397,Star Wars,movie,121,1977,"Action, Adventure, Fantasy, Sci-Fi",George Lucas
+398,Stark Love,movie,70,1927,Drama,Karl Brown
+399,State Fair,movie,99,1933,"Comedy, Drama, Music, Romance",Henry King
+400,"Steamboat Bill, Jr.",movie,70,1928,"Action, Comedy, Drama, Family, Romance","Charles Reisner, Buster Keaton"
+401,The Sting,movie,129,1973,"Comedy, Crime, Drama",George Roy Hill
+402,Stormy Weather,movie,78,1943,"Comedy, Drama, Music, Romance",Andrew L. Stone
+403,Story of G.I. Joe,movie,108,1945,"Biography, Drama, War",William A. Wellman
+404,Stranger Than Paradise,movie,89,1984,"Comedy, Drama",Jim Jarmusch
+405,A Streetcar Named Desire,movie,122,1951,Drama,Elia Kazan
+406,The Strong Man,movie,75,1926,"Adventure, Comedy, Romance",Frank Capra
+407,Sullivan's Travels,movie,90,1941,"Adventure, Comedy, Drama, Romance",Preston Sturges
+408,Sunrise: A Song of Two Humans,movie,94,1927,"Drama, Romance",F.W. Murnau
+409,Sunset Blvd.,movie,110,1950,"Drama, Film-Noir",Billy Wilder
+410,Sweet Smell of Success,movie,96,1957,"Drama, Film-Noir",Alexander Mackendrick
+411,Swing Time,movie,103,1936,"Comedy, Musical, Romance",George Stevens
+412,Tabu: A Story of the South Seas,movie,86,1931,"Adventure, Drama, Romance",F.W. Murnau
+413,The Tall T,movie,78,1957,Western,Budd Boetticher
+414,Tarzan and His Mate,movie,104,1934,"Action, Adventure, Romance","Jack Conway, Cedric Gibbons, James C. McKay"
+415,Taxi Driver,movie,114,1976,"Crime, Drama",Martin Scorsese
+416,The Ten Commandments,movie,220,1956,"Adventure, Drama, Family, History",Cecil B. DeMille
+417,The Terminator,movie,107,1984,"Action, Sci-Fi",James Cameron
+418,Tess of the Storm Country,movie,80,1914,Drama,Edwin S. Porter
+419,Tevya,movie,93,1939,Drama,Maurice Schwartz
+420,Thelma & Louise,movie,130,1991,"Adventure, Crime, Drama",Ridley Scott
+421,The Thief of Bagdad,movie,155,1924,"Adventure, Family, Fantasy, Romance",Raoul Walsh
+422,The Thin Man,movie,91,1934,"Comedy, Crime, Mystery, Romance",W.S. Van Dyke
+423,The Thing from Another World,movie,87,1951,"Horror, Sci-Fi","Christian Nyby, Howard Hawks"
+424,This Is Spinal Tap,movie,82,1984,"Comedy, Music",Rob Reiner
+425,To Be or Not to Be,movie,99,1942,"Comedy, Romance, War",Ernst Lubitsch
+426,To Kill a Mockingbird,movie,129,1962,"Crime, Drama",Robert Mulligan
+427,Tol'able David,movie,99,1921,Drama,Henry King
+428,Tootsie,movie,116,1982,"Comedy, Drama, Romance",Sydney Pollack
+429,Top Gun,movie,109,1986,"Action, Drama",Tony Scott
+430,Top Hat,movie,101,1935,"Comedy, Musical, Romance",Mark Sandrich
+431,Touch of Evil,movie,95,1958,"Crime, Drama, Film-Noir, Thriller",Orson Welles
+432,Traffic in Souls,movie,88,1913,"Crime, Drama",George Loane Tucker
+433,The Treasure of the Sierra Madre,movie,126,1948,"Adventure, Drama, Western",John Huston
+434,A Tree Grows in Brooklyn,movie,129,1945,"Drama, Family, Romance",Elia Kazan
+435,Trouble in Paradise,movie,83,1932,"Comedy, Crime, Romance",Ernst Lubitsch
+436,Twelve O'Clock High,movie,132,1949,"Drama, War",Henry King
+437,Twentieth Century,movie,91,1934,"Comedy, Romance",Howard Hawks
+438,Two-Lane Blacktop,movie,102,1971,Drama,Monte Hellman
+439,Uncle Tom's Cabin,movie,54,1914,Drama,William Robert Daly
+440,Under Western Stars,movie,65,1938,"Adventure, Western",Joseph Kane
+441,Unforgiven,movie,130,1992,"Drama, Western",Clint Eastwood
+442,Unmasked,short,12,1917,"Short, Drama","Grace Cunard, Francis Ford"
+443,Verbena trágica,movie,85,1938,Drama,Charles Lamont
+444,Vertigo,movie,128,1958,"Mystery, Romance, Thriller",Alfred Hitchcock
+445,A Virtuous Vamp,movie,50,1919,"Comedy, Romance",David Kirkland
+446,A Walk in the Sun,movie,117,1945,"Drama, War",Lewis Milestone
+447,The War of the Worlds,movie,85,1953,"Action, Sci-Fi, Thriller",Byron Haskin
+448,The Wedding March,movie,113,1928,Drama,Erich von Stroheim
+449,West Side Story,movie,153,1961,"Crime, Drama, Musical, Romance","Jerome Robbins, Robert Wise"
+450,Where Are My Children?,movie,62,1916,Drama,"Phillips Smalley, Lois Weber"
+451,White Heat,movie,114,1949,"Action, Crime, Drama, Film-Noir",Raoul Walsh
+452,Who's Afraid of Virginia Woolf?,movie,131,1966,Drama,Mike Nichols
+453,Wild and Woolly,movie,72,1917,"Comedy, Western, Romance",John Emerson
+454,Wild Boys of the Road,movie,68,1933,"Adventure, Drama",William A. Wellman
+455,The Wild Bunch,movie,145,1969,"Action, Adventure, Western",Sam Peckinpah
+456,Wild River,movie,110,1960,"Drama, History, Romance",Elia Kazan
+457,Will Success Spoil Rock Hunter?,movie,93,1957,"Comedy, Romance",Frank Tashlin
+458,Willy Wonka & the Chocolate Factory,movie,100,1971,"Family, Fantasy, Musical",Mel Stuart
+459,Winchester '73,movie,92,1950,"Action, Drama, Western",Anthony Mann
+460,The Wind,movie,95,1928,"Drama, Romance, Thriller, Western",Victor Sjöström
+461,Wings,movie,144,1927,"Drama, Romance, War, Action","Harry d'Abbadie d'Arrast, William A. Wellman"
+462,The Wishing Ring: An Idyll of Old England,movie,54,1914,"Comedy, Drama, Romance",Maurice Tourneur
+463,Within Our Gates,movie,79,1920,"Drama, Romance",Oscar Micheaux
+464,The Wizard of Oz,movie,102,1939,"Adventure, Family, Fantasy, Musical","Mervyn LeRoy, George Cukor, Norman Taurog, King Vidor, Richard Thorpe, Victor Fleming"
+465,Woman of the Year,movie,114,1942,"Comedy, Drama, Romance, Sport",George Stevens
+466,A Woman Under the Influence,movie,155,1974,"Drama, Romance",John Cassavetes
+467,The Women,movie,133,1939,"Comedy, Drama",George Cukor
+468,Wuthering Heights,movie,104,1939,"Drama, Romance",William Wyler
+469,Yankee Doodle Dandy,movie,126,1942,"Biography, Drama, Family, Music, Musical",Michael Curtiz
+470,Young Frankenstein,movie,106,1974,Comedy,Mel Brooks
+471,Young Mr. Lincoln,movie,100,1939,"Biography, Drama, History",John Ford
