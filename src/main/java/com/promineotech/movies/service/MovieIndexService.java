@@ -7,7 +7,7 @@ import java.util.List;
 import com.promineotech.movies.entity.MovieGenre;
 import com.promineotech.movies.entity.Movies;
 
-
+//contains all crud operation methods
 
 public interface MovieIndexService {
   

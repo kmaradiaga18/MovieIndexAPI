@@ -20,4 +20,5 @@ INSERT INTO movies.genre VALUES (NULL, 'Family');
 INSERT INTO movies.genre VALUES (NULL, 'Comedy');
 INSERT INTO movies.genre VALUES (NULL, 'Mystery');
 INSERT INTO movies.genre VALUES (NULL, 'Musical');
+INSERT INTO movies.genre VALUES (NULL, 'None');
 INSERT INTO movies.genre VALUES (NULL, 'Short');

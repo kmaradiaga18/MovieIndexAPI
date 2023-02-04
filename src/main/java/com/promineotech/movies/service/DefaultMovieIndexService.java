@@ -17,6 +17,8 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class DefaultMovieIndexService implements MovieIndexService{
   
+//contains all crud operation methods
+  
   @Autowired
   private MoviesDao moviesDao;
   
@@ -68,7 +70,7 @@ public class DefaultMovieIndexService implements MovieIndexService{
   public int updateMovieByID(String title, int id) {
     log.debug("updateMovieByID method was called with movie_id={}", id);
     int updateMovie = moviesDao.updateMovieByID(title, id);
-    return updateMovie; //??Ask if this works, int had to be placed because void didn't work.
+    return updateMovie; 
   }
  
 }
