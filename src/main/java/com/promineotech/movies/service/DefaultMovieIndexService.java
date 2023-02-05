@@ -43,6 +43,8 @@ public class DefaultMovieIndexService implements MovieIndexService{
   public int createMovie(String title, String runtime, String release_date, String genre, String director){
     log.debug("createMovies method was called with title={}, runtime={}, release_date={}, genre={}, director={}", 
       title, runtime, release_date, genre, director);
+    
+      System.out.println(title +":"+ runtime+":"+release_date+":"+genre+":"+director);
 
       int createdMovie = moviesDao.createMovie(title, runtime, release_date, genre, director);
       if(createdMovie == 0) {

@@ -13,6 +13,7 @@ import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import com.promineotech.movies.entity.Movies;
+import com.promineotech.movies.entity.NewMovieRequest;
 
 @RestController
 @RequestMapping("/movies")
@@ -34,9 +35,10 @@ public interface NewMovieController {
     }
   )
   @ResponseStatus(code = HttpStatus.CREATED)
-  int createNewMovie(@RequestBody Movies newMovieRequest);
+  int createNewMovie(@RequestBody NewMovieRequest newMovieRequest);
 
   // Example for Create JSON in Swagger
+  // moviePK is there but not used because id autoincrements
   /*
 {
   "title": "Test Title",
@@ -49,7 +51,7 @@ public interface NewMovieController {
 
   @DeleteMapping("/movie/{id}")
   @ResponseStatus(code = HttpStatus.OK)
-  @Operation(summary = "Create a new movie for index",
+  @Operation(summary = "Deletes a movie from database",
   description = "Returns a new movie for the index once all parameters have been input",
    responses = {
       @ApiResponse(

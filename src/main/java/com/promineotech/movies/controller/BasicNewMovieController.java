@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import com.promineotech.movies.entity.Movies;
+import com.promineotech.movies.entity.NewMovieRequest;
 import com.promineotech.movies.service.MovieIndexService;
 
 import lombok.extern.slf4j.Slf4j;
@@ -16,14 +17,14 @@ public class BasicNewMovieController implements NewMovieController
   private MovieIndexService movieIndexService;
   
   @Override
-  public int createNewMovie(Movies newMovieRequest) {
+  public int createNewMovie(NewMovieRequest newMovieRequest) {
     log.debug("NewMovie={}", newMovieRequest);
     return movieIndexService.createMovie(
       newMovieRequest.getTitle(), 
       newMovieRequest.getRuntime(), 
       newMovieRequest.getRelease_date(), 
-      newMovieRequest.getGenre(),
-      newMovieRequest.getDirector());
+      newMovieRequest.getGenre_id(),
+      newMovieRequest.getDirector_id());
   }
 
   @Override

@@ -17,7 +17,7 @@ public class Movies {
   private String genre;
   private String director;
   
-  @JsonIgnore
+  //@JsonIgnore
   public Long getMoviePK() {
     return moviePK;
    

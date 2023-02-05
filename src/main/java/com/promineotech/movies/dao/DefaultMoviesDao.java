@@ -55,6 +55,7 @@ public class DefaultMoviesDao implements MoviesDao{
           public Movies mapRow(ResultSet rs, int rowNum) throws SQLException {
            //formatter:off
             return  Movies.builder()
+                .moviePK(rs.getLong("movie_id"))
                 .title(rs.getString("title"))
                 .runtime(rs.getString("runtime"))
                 .release_date(rs.getString("release_date"))
@@ -76,7 +77,7 @@ public class DefaultMoviesDao implements MoviesDao{
     params.put("title", title);
     params.put("runtime", runtime);
     params.put("release_date", release_date);
-    params.put("genre_category", genre.toString());
+    params.put("genre_category", genre);
     params.put("director_name", director);
 
     return jdbcTemplate.update(sql, params);
